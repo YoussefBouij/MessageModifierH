@@ -1,0 +1,2 @@
+jjtree -NODE_PACKAGE:org.immregistries.dqa.message_modifier.script script.jjt
+javacc script.jj

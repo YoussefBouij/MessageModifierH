@@ -1,0 +1,7 @@
+Download JavaCC from here: https://java.net/projects/javacc/downloads/directory/releases
+
+Downloaded from JavaCC 6.0 release
+
+Followed install instructions here: https://javacc.java.net/doc/installhelp.html
+
+I had to download the JavaCC 5.0 release to get the scripts for running it.
